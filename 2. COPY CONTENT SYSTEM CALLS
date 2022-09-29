@@ -31,3 +31,11 @@ fclose(fptr1);
 fclose(fptr2);
 return 0;
 }
+
+output:
+enter the name of the file to be opened for reading:
+49
+unable to open the file 49
+--------------------------------
+Process exited after 3.448 seconds with return value 0
+Press any key to continue . . .
